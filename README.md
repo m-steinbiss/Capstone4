@@ -1,7 +1,9 @@
-### Capstone4: Machine Learning
+###### **Capstone4: Machine Learning**
+
 This repository contains a Google Colab notebook that walks through training various machine learning models from polynomial regression to deep neural networks by using Scikit-learn and Keras. This capstone is the final unit and represents the final learning outcomes of my DS201 course. 
 
-##Learning Objectives
+### **Learning Objectives**
+
 By using this notebook and the supplemntary tutorial video, you'll be able to understand:
 - Why data splitting and scaling are critical before training models.
 - The difference between **underfitting** and **overfitting**, and how to detect them by using performance metrics.
@@ -9,7 +11,8 @@ By using this notebook and the supplemntary tutorial video, you'll be able to un
 - How **Ridge (L2) regularization** helps mitigate overfitting in high-degree polynomial models.
 - Why **deeper neural networks** generally outperform simpler ones.
 
-##Overview of the Notebook
+### **Overview of the Notebook**
+
 Part 1: Regression
 
 1.1 Generate a synthetic dataset.
@@ -24,7 +27,7 @@ Part 2: Classification
 2.4 Train a "deeper" feedforward Neural Network.
 2.5 Show the performance of our models on two different datasets.
 
-##Visualizations
+### **Visualizations**
 1. This scatterplot is to visualize the synthetic dataset that we created to be able to train our machine learning model on. This is set to improve it's ability to recognize patterns within datasets and produce the desired results it is programmed to deliver. 
 
 
@@ -60,7 +63,7 @@ By using degree 20, our model is given extreme flexibility, which has the comple
 
 <img width="543" alt="image" src="https://github.com/user-attachments/assets/f1728d88-cbdb-46c0-9039-573ec8d86d10" />
 
-##Conclusions & Key Findings 
+### **Conclusions** 
 
 This capstone explored how machine learning models of varying complexity perform. We started with polynomial regression, demonstrating how increasing the polynomial degree can improve performance on non-linear data, but also risks overfitting if not properly regularized, as we saw with the Polynomial Degree = 20 being corrected with the Ridge regression. 
 
@@ -68,7 +71,7 @@ A particularly important takeaway came from the comparison between a cimple neur
 
 Ultimately, this notebook reinforces key concepts ike underfitting, overfitting, regularization, and the importance of model selection based on data complexity. It also demonstrates the practical impact of these choices through clear visualizations and real-world performance metrics. 
 
-##Resources
+### **Resources**
 
 Youtube tutorial link: https://www.youtube.com/watch?v=j5WGoANPYnc
 Google colab: https://colab.research.google.com/github/lopezbec/intro_python_notebooks/blob/master/Capstone_4_DS201.ipynb#scrollTo=s5wBSIIIKDLG
