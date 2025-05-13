@@ -74,4 +74,6 @@ Ultimately, this notebook reinforces key concepts ike underfitting, overfitting,
 ### **Resources**
 
 Youtube tutorial link: https://www.youtube.com/watch?v=j5WGoANPYnc
+
+
 Google colab: https://colab.research.google.com/github/lopezbec/intro_python_notebooks/blob/master/Capstone_4_DS201.ipynb#scrollTo=s5wBSIIIKDLG
