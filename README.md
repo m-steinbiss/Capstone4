@@ -1,4 +1,4 @@
-###### **Capstone4: Machine Learning**
+#### **Capstone4: Machine Learning**
 
 This repository contains a Google Colab notebook that walks through training various machine learning models from polynomial regression to deep neural networks by using Scikit-learn and Keras. This capstone is the final unit and represents the final learning outcomes of my DS201 course. 
 
